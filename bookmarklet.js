@@ -1,3 +1,7 @@
+/*
+ *  Made with laziness by Raymond Luo
+ */
+
 javascript: (function () {
     if (!window.location.href.includes("gfycat.com/upload")) {
         window.location.href = 'https://gfycat.com/upload';
