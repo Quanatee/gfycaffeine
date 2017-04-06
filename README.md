@@ -48,7 +48,7 @@ Look in the code, change ".mp4" to ".gif". FYI .gif files are bigly. They're hug
 
 ### It doesn't friggin' work!
 
-Gfycat hosts their videos under three addresses depending on the converted size:
+Gfycat hosts their videos under three subdomains depending on the converted size:
 - zippy.gfycat.com (under 1mb)
 - fat.gfycat.com (1-3mb)
 - giant.gfycat.com (>3mb)
