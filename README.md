@@ -53,7 +53,7 @@ Gfycat hosts their videos under three addresses depending on the converted size:
 - fat.gfycat.com (1-3mb)
 - giant.gfycat.com (>3mb)
 
-Gfycaffeine automagically creates links under the "zippy" subdomain because the original intent is to host small, ~1-5s loop videos. You can change the "zippy" in the code to "fat" or "giant" according to your output requirements.
+Gfycaffeine automagically creates links under the "zippy" subdomain because the original intent is to host small, ~1-5s loop videos. You can change the "zippy" in the code to get a "fat" or "giant" cat on your lap.
 
 ### That's too technical.
 
