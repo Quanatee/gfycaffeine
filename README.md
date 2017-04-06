@@ -1,5 +1,8 @@
 # gfycaffeine
 
+A bookmarklet that allows you to download multiple .mp4 files on the upload page of gfycat, saving you clicks in the process.
+
+![Gfycaffine Bookmarket](https://github.com/rymdluo/gfycaffeine/blob/master/screenshot.png)
 
 ### WTF is a bookmarklet?
 
