@@ -33,7 +33,7 @@ Clicking on it the first time will take you to the upload page of gfycat. If you
 
 Gfycaffeine only works when you're uploading multiple medias. If you're only uploading one, pull up your socks and get your .mp4s the traditional way.
 
-Once your medias have been uploaded, click on **Gfycaffine** again and it will convert the generated links (that go to a viewing page) to direct .mp4 that you can right click and save, or whatever.
+Once your medias have been uploaded, click on **Gfycaffeine** again and it will convert the generated links (that go to a viewing page) to direct .mp4 that you can right click and save, or whatever.
 
 
 ### What if I want .webm?
