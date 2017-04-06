@@ -35,8 +35,6 @@ Gfycaffeine only works when you're uploading multiple medias. If you're only upl
 
 Once your medias have been uploaded, click on **Gfycaffeine** again and it will convert the generated links (that go to a viewing page) to direct .mp4 that you can right click and save, or whatever. 
 
-It produces two types of links, zippy and fat. Zippy being a smaller file, fat being a large obese garfield cat. Either one may not work depending the quality of your upload.
-
 
 ### What if I want .webm?
 
@@ -46,3 +44,17 @@ Look in the code, change ".mp4" to ".webm".
 ### What if I want .gif?
 
 Look in the code, change ".mp4" to ".gif".
+
+
+### It doesn't friggin' work!
+
+Gfycat hosts their videos under three addresses depending on the converted size:
+- zippy.gfycat.com (under 1mb)
+- fat.gfycat.com (1-3mb)
+- giant.gfycat.com (>3mb)
+
+Gfycaffeine automagically creates links under the "zippy" subdomain because the original intent is to host small, ~1-5s loop videos. You can change the "zippy" in the code to "fat" or "giant" according to your output requirements.
+
+### That's too technical.
+
+What are you doing on github?
