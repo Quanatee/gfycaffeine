@@ -13,7 +13,7 @@ I wish. How bout starscripts?
 
 ### So what does this ~~starscript~~ bookmarklet do?
 
-Javascript to replace newly generated links to download links in .mp4 during upload.
+Gfycat's compression while maintaining quality is incredible. But you want to use those medias for web, it's not prudent to rely on a free platform to host your medias. So what this does is that it cancels off the 6 clicks and 1 typing action to get to the .mp4 file.
 
 
 ### How do I start using it?
@@ -33,7 +33,9 @@ Clicking on it the first time will take you to the upload page of gfycat. If you
 
 Gfycaffeine only works when you're uploading multiple medias. If you're only uploading one, pull up your socks and get your .mp4s the traditional way.
 
-Once your medias have been uploaded, click on **Gfycaffeine** again and it will convert the generated links (that go to a viewing page) to direct .mp4 that you can right click and save, or whatever.
+Once your medias have been uploaded, click on **Gfycaffeine** again and it will convert the generated links (that go to a viewing page) to direct .mp4 that you can right click and save, or whatever. 
+
+It produces two types of links, zippy and fat. Zippy being a smaller file, fat being a large obese garfield cat. Either one may not work depending the quality of your upload.
 
 
 ### What if I want .webm?
