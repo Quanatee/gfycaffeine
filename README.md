@@ -38,12 +38,12 @@ Once your medias have been uploaded, click on **Gfycaffeine** again and it will 
 
 ### What if I want .webm?
 
-Look in the code, change ".mp4" to ".webm".
+Look in the code, change ".mp4" to ".webm". FYI .webm is not natively supported in IOS devices.
 
 
 ### What if I want .gif?
 
-Look in the code, change ".mp4" to ".gif".
+Look in the code, change ".mp4" to ".gif". FYI .gif files are bigly. They're huge.
 
 
 ### It doesn't friggin' work!
